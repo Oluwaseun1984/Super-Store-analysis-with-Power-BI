@@ -54,16 +54,16 @@ You can interact with the report [here](https://app.powerbi.com/groups/7947a12e-
 
 This is the dashboard to show how sales trended over time. It consists of a line chart to show sales trend over the months:
 
-![](sales _trend _over the_month.png)
+![](sales_trend_over_the_month.png)
 
 Stacked column chart to show average sales by day of the week
 
-![](average sales by day of the week.png)
+![](averagesale_by_day_oftheweek.png)
 
 Ribbon chart to show how customer segments rank
 
-![](customer_segment ribbonchart_powerBi.png)
+![](customer_segment_ribbonchart_powerBi.png)
 
 Stacked column chart to show number of transactions by day of the week
 
-![](numberof_transactions_by day _oftheweek.png)
+![](numberof_transactions_by_day_oftheweek.png)
